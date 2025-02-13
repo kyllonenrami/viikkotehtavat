@@ -1,0 +1,7 @@
+C:/Users/ramps/OneDrive/Tiedostot/viikko6olio/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/viikko6olio.dir
+C:/Users/ramps/OneDrive/Tiedostot/viikko6olio/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ramps/OneDrive/Tiedostot/viikko6olio/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ramps/OneDrive/Tiedostot/viikko6olio/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ramps/OneDrive/Tiedostot/viikko6olio/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ramps/OneDrive/Tiedostot/viikko6olio/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ramps/OneDrive/Tiedostot/viikko6olio/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
